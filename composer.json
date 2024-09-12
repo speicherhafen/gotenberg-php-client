@@ -27,7 +27,6 @@
     "php-http/httplug": ">=1.0",
     "php-http/discovery": "^1.0",
     "php-http/message": "^1.0",
-    "symfony/http-client": "^7.1",
     "nyholm/psr7": "^1.8"
   },
   "autoload" : {
